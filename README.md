@@ -37,6 +37,7 @@ Threat intelligence (TI) involves collecting and analyzing information about cur
 - [Feodo Tracker](https://feodotracker.abuse.ch/) – Tracker for botnet command and control servers.
 - [URLhaus](https://urlhaus.abuse.ch/) – Malware distribution URLs feed.
 - [CIRCL MISP Feeds](https://www.circl.lu/services/misp-feeds/) – Trusted feeds for threat intelligence sharing.
+- [autosecure](https://github.com/vincentkoc/autosecure) – Threat-feed IP block automation for Linux and macOS firewalls.
 
 ## Open Source Platforms & Frameworks
 
