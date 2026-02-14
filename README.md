@@ -35,6 +35,7 @@ Threat intelligence (TI) involves collecting and analyzing information about cur
 - [Abuse.ch Feeds](https://abuse.ch/) – Open feeds on malware, botnets, and ransomware.
 - [AlienVault OTX](https://otx.alienvault.com/) – Open threat exchange platform for indicators and trends.
 - [Feodo Tracker](https://feodotracker.abuse.ch/) – Tracker for botnet command and control servers.
+- [isMalicious](https://ismalicious.com/) – Real-time threat intelligence API aggregating 500M+ indicators from 600+ curated sources, covering IPs, domains, URLs, and file hashes.
 - [URLhaus](https://urlhaus.abuse.ch/) – Malware distribution URLs feed.
 - [CIRCL MISP Feeds](https://www.circl.lu/services/misp-feeds/) – Trusted feeds for threat intelligence sharing.
 
