@@ -67,6 +67,7 @@ Threat intelligence (TI) involves collecting and analyzing information about cur
 - [Kaspersky Threat Intelligence Portal](https://opentip.kaspersky.com/) – IOC lookups and threat data.
 - [CrowdStrike Blog](https://www.crowdstrike.com/blog/) – Industry-leading threat reports and trends.
 - [Anomali ThreatStream](https://www.anomali.com/product/threatstream) – Commercial TI platform with feed integrations.
+- [Pharos AI](https://conflicts.app) – Open-source real-time intelligence dashboard for conflict tracking. Aggregates 30+ OSINT feeds with geospatial visualization, actor dossiers, and event timelines. Self-hostable under AGPL-3.0.
 
 ## APIs & Datasets
 
