@@ -70,6 +70,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Kaspersky Threat Intelligence Portal](https://opentip.kaspersky.com/) – IOC lookups and threat data.
 - [CrowdStrike Blog](https://www.crowdstrike.com/blog/) – Industry-leading threat reports and trends.
 - [Anomali ThreatStream](https://www.anomali.com/product/threatstream) – Commercial TI platform with feed integrations.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) – Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and daily updates.
 - [Pharos AI](https://conflicts.app) – Open source real-time intelligence dashboard for geopolitical conflict tracking, aggregating OSINT feeds with geospatial visualization, timelines, and event data.
 
 ## APIs & Datasets
