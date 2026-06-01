@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CrowdStrike Blog](https://www.crowdstrike.com/blog/) – Industry-leading threat reports and trends.
 - [Anomali ThreatStream](https://www.anomali.com/product/threatstream) – Commercial TI platform with feed integrations.
 - [Pharos AI](https://conflicts.app) – Open source real-time intelligence dashboard for geopolitical conflict tracking, aggregating OSINT feeds with geospatial visualization, timelines, and event data.
+- [defend.network](https://defend.network) – Free, verified cyber threat intelligence: daily threat briefings and weekly vulnerability reports, every CVE cross-checked against NVD and the CISA KEV catalog.
 
 ## APIs & Datasets
 
