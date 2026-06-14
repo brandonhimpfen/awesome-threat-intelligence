@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OpenCTI](https://www.opencti.io/) – Open Cyber Threat Intelligence platform built on graph tech.
 - [CRITIFENCE ThreatCrowd](https://www.threatcrowd.org/) – Search engine for IPs, domains, hashes, and malware.
 - [IntelMQ](https://github.com/certtools/intelmq) – Framework for collecting and processing security feeds.
+- [ThreatMapper](https://github.com/anpa1200/threatmapper) – CTI-to-detection workbench for mapping threat reports to ATT&CK, comparing TTP overlap, identifying detection gaps, and exporting analyst-ready outputs.
 - [Yeti](https://github.com/yeti-platform/yeti) – Platform to collect, enrich, and analyze threat intelligence.
 
 ## Indicators of Compromise (IOCs)
