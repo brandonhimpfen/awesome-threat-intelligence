@@ -46,6 +46,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MISP](https://www.misp-project.org/) – Threat intelligence platform for sharing indicators and analysis.
 - [OpenCTI](https://www.opencti.io/) – Open Cyber Threat Intelligence platform built on graph tech.
 - [CRITIFENCE ThreatCrowd](https://www.threatcrowd.org/) – Search engine for IPs, domains, hashes, and malware.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) – Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local.
 - [IntelMQ](https://github.com/certtools/intelmq) – Framework for collecting and processing security feeds.
 - [Yeti](https://github.com/yeti-platform/yeti) – Platform to collect, enrich, and analyze threat intelligence.
 
