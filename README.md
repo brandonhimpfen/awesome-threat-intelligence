@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CRITIFENCE ThreatCrowd](https://www.threatcrowd.org/) – Search engine for IPs, domains, hashes, and malware.
 - [IntelMQ](https://github.com/certtools/intelmq) – Framework for collecting and processing security feeds.
 - [Yeti](https://github.com/yeti-platform/yeti) – Platform to collect, enrich, and analyze threat intelligence.
+- [MalwareIntel](https://malwareintel.es) — Free threat intelligence platform aggregating 98+ public feeds with 1.8M+ IOCs, Sigma rules, MITRE ATT&CK mapping, and knowledge graph. Spanish and English.
 
 ## Indicators of Compromise (IOCs)
 
