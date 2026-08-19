@@ -78,6 +78,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [GreyNoise API](https://www.greynoise.io/) – Context for IPs on the internet to reduce false positives.
 - [AbuseIPDB API](https://www.abuseipdb.com/) – Report and analyze abusive IP addresses.
 - [OTX API](https://otx.alienvault.com/api) – Access AlienVault's Open Threat Exchange data.
+- [SniffCat](https://sniffcat.com/documentation) – IP abuse lookup, reporting and threat intelligence
 
 ## Communities & Sharing
 
