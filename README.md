@@ -43,6 +43,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Feodo Tracker](https://feodotracker.abuse.ch/) – Tracker for botnet command and control servers.
 - [URLhaus](https://urlhaus.abuse.ch/) – Malware distribution URLs feed.
 - [CIRCL MISP Feeds](https://www.circl.lu/services/misp-feeds/) – Trusted feeds for threat intelligence sharing.
+- [ThreatCluster](https://threatcluster.io/iocs) – Free public IOC feed (domains, IPs, hashes) plus an API and MCP server for incident clusters and leak-site victims.
 
 ## Open Source Platforms & Frameworks
 
