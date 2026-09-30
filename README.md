@@ -81,6 +81,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [GreyNoise API](https://www.greynoise.io/) – Context for IPs on the internet to reduce false positives.
 - [AbuseIPDB API](https://www.abuseipdb.com/) – Report and analyze abusive IP addresses.
 - [OTX API](https://otx.alienvault.com/api) – Access AlienVault's Open Threat Exchange data.
+- [cl0q](https://cl0q.com) – Open search engine for domain research — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
 
 ## Communities & Sharing
 
