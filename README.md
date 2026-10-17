@@ -74,6 +74,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CrowdStrike Blog](https://www.crowdstrike.com/blog/) – Industry-leading threat reports and trends.
 - [Anomali ThreatStream](https://www.anomali.com/product/threatstream) – Commercial TI platform with feed integrations.
 - [Pharos AI](https://conflicts.app) – Open source real-time intelligence dashboard for geopolitical conflict tracking, aggregating OSINT feeds with geospatial visualization, timelines, and event data.
+- [ICHI – Internet Cyber Health Index](https://ichi.global/) – Free public-source outside-in view of internet cyber pressure and triage evidence. Aggregates vulnerability, exploitation, DDoS, ransomware, threat-actor, and supply-chain signals with linked source evidence and role-specific views (SOC, vulnerability management, threat intelligence, executive). Pressure index is directional, not an organizational risk score.
 
 ## APIs & Datasets
 
